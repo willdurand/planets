@@ -1,1 +1,2 @@
 Pluto is not a planet
+A change without a merge conflict.
