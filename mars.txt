@@ -2,3 +2,4 @@ Cold and dry
 Mars has two moons
 This is a new change from GitHub
 This is a second change from GitHub
+Here is supposed to be a useful note
